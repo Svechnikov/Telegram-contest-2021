@@ -1,3 +1,5 @@
+Please, check pull request here https://github.com/DrKLO/Telegram/pull/1615
+
 ## Telegram messenger for Android
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
